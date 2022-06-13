@@ -15,7 +15,7 @@ Example Enter Date, Enter a City, Enter a State, Enter a Country and Enter a Sha
 
 ### Categories and Options ### 
 ![FS](![image](github.com/Ev9784/UFO-Analysis/blob/master/Images/2.png?raw=true)
-)
+
 ###  Header and Body ### 
 ![FS](https://github.com/Ev9784/UFO-Analysis/blob/master/Images/3.png?raw=true)
 
